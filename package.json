@@ -1,5 +1,5 @@
 {
-  "name": "friends-list-app-codemy",
+  "name": "friend-list-app-codemy",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
